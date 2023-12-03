@@ -1,3 +1,3 @@
-# flappy_bird
+# flappy_bird Game
 
-A new Flutter project.
+A Game developed using Flutter & Flame.
